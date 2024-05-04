@@ -8,3 +8,5 @@ Front-end para o projeto de um gerenciador de vendas, clientes e produtos, para 
 - CSS
 
 ## Em desenvolvimento... 🚧
+
+Esse projeto ainda é apenas um esboço, quaisquer erros ou falta de boas práticas devem ser desconsiderados.

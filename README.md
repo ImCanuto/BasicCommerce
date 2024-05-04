@@ -6,6 +6,5 @@ Front-end para o projeto de um gerenciador de vendas, clientes e produtos, para 
 
 - HTML
 - CSS
-- Sass
 
 ## Em desenvolvimento... 🚧
